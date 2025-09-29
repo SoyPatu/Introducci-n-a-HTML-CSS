@@ -27,4 +27,4 @@
 
 - [Uso de Ejemplos en la Presentación](codigos.md)
 
-- [Ejercicio de HTML](https://github.com/SoyPatu/Introducci-n-a-HTML-CSS/patricio.html)
+- [Ejercicio de HTML](https://soypatu.github.io/Introducci-n-a-HTML-CSS/patricio.html)
