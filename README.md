@@ -26,3 +26,5 @@
 [Introducción-a-HTML-CSS](https://www.canva.com/design/DAGzbgTg9gw/lGDu2_NTjl3P6jn8Qgzjdw/edit?utm_content=DAGzbgTg9gw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - [Uso de Ejemplos en la Presentación](codigos.md)
+
+- [Ejercicio de HTML](https://github.com/SoyPatu/Introducci-n-a-HTML-CSS/patricio.html)
