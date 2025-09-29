@@ -38,7 +38,7 @@
 
 - scr y alt
 ```  bash
-<img src="foto.jpg" alt="Descripción de la foto">
+<img src="cars.jpg" alt="Cars" width="200">
 ``` 
 
 - style
